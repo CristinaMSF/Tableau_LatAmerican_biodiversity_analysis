@@ -76,7 +76,7 @@ Los datos utilizados provienen de fuentes oficiales y reconocidas a nivel global
 
 Puedes explorar los dashboards interactivos en Tableau Public:  
 🔗 *
-https://public.tableau.com/app/profile/beatriz.mijancos/vizzes
+[https://public.tableau.com/app/profile/beatriz.mijancos/vizzes](https://public.tableau.com/app/profile/cristina.martin.sanfrutos/vizzes)
 ---
 
 
